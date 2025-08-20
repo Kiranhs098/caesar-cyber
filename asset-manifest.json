@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/caesar-cyber/static/css/main.f3654b44.css",
+    "main.js": "/caesar-cyber/static/js/main.858e8511.js",
+    "static/js/453.3e6734a8.chunk.js": "/caesar-cyber/static/js/453.3e6734a8.chunk.js",
+    "index.html": "/caesar-cyber/index.html",
+    "main.f3654b44.css.map": "/caesar-cyber/static/css/main.f3654b44.css.map",
+    "main.858e8511.js.map": "/caesar-cyber/static/js/main.858e8511.js.map",
+    "453.3e6734a8.chunk.js.map": "/caesar-cyber/static/js/453.3e6734a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3654b44.css",
+    "static/js/main.858e8511.js"
+  ]
+}
