@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Share+Tech+Mono|Fira+Mono&display=swap');
+
+body {
+  font-family: 'Share Tech Mono', 'Fira Mono', monospace;
+  background-color: #121212;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
